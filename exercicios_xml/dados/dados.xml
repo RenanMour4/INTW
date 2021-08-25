@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receita>
+	<contribuente>
+		<cpf>111.111.111.111-11</cpf>
+		<rg>11.111.111-1</rg>
+		<nome>Anderson Vanin</nome>
+		<data_nasc>10/12/1995</data_nasc>
+		<endereco>
+			<logradouro>Rua X</logradouro>
+			<numero>11</numero>
+			<bairro>Centro</bairro>
+			<cep>01000-09</cep>
+			<cidade>Ribeirão Píres</cidade>
+			<estado>SP</estado>
+		</endereco>	
+		<contato>
+			<telefone>(11) 4567-9807</telefone>
+			<celular>(11) 91123-4567</celular>
+			<email>fulano@email.com</email>
+		</contato>
+		<renda>R$ 1.500,00</renda>
+		<foto>https://robohash.org/bra</foto>
+		<conta>
+			<banco>Bradesco</banco>
+			<ag>111-2</ag>
+			<cc>222222-1</cc>
+		</conta>
+	</contribuente>
+
+	<contribuente>
+		<cpf>345.152.171.190-11</cpf>
+		<rg>22.901.561-x</rg>
+		<nome>Reinaldo Goma</nome>
+		<data_nasc>04/10/2000</data_nasc>
+		<endereco>
+			<logradouro>Rua Esquina</logradouro>
+			<numero>77</numero>
+			<bairro>Rio Brandão</bairro>
+			<cep>01890-09</cep>
+			<cidade>Canada</cidade>
+			<estado>RJ</estado>
+		</endereco>	
+		<contato>
+			<telefone>(32) 5678-7865</telefone>
+			<celular>(11) 98760-7787</celular>
+			<email>Reinaldo@email.com</email>
+		</contato>
+		<renda>R$ 3.000,00</renda>
+		<foto>https://robohash.org/bravo</foto>
+		<conta>
+			<banco>Santander</banco>
+			<ag>098-3</ag>
+			<cc>276858-9</cc>
+		</conta>
+	</contribuente>
+
+	<contribuente>
+		<cpf>590.891.750-83</cpf>
+		<rg>34.092.057-9</rg>
+		<nome>Taynara Vilar Cabral</nome>
+		<data_nasc>15/01/1982</data_nasc>
+		<endereco>
+			<logradouro>Rua do Sabão</logradouro>
+			<numero>54</numero>
+			<bairro>Simão Godoi Parente</bairro>
+			<cep>05647-98</cep>
+			<cidade>Taboão da Serra</cidade>
+			<estado>SP</estado>
+		</endereco>	
+		<contato>
+			<telefone>(60) 42364-6212</telefone>
+			<celular>(84) 95830-2782</celular>
+			<email>tay@email.com</email>
+		</contato>
+		<renda>R$ 4.200,00</renda>
+		<foto>https://robohash.org/brasil</foto>
+		<conta>
+			<banco>Itaú</banco>
+			<ag>156-7</ag>
+			<cc>267542-7</cc>
+		</conta>
+	</contribuente>
+
+	<contribuente>
+		<cpf>497.010.730-02</cpf>
+		<rg>50.070.640-2</rg>
+		<nome>Thiago Belmonte Poças</nome>
+		<data_nasc>07/05/2005</data_nasc>
+		<endereco>
+			<logradouro>Rua Margarida</logradouro>
+			<numero>87</numero>
+			<bairro>Luiz Mourinho Mateus</bairro>
+			<cep>69900-060</cep>
+			<cidade>Rondonópolis</cidade>
+			<estado>MT</estado>
+		</endereco>	
+		<contato>
+			<telefone>(47) 61669-7155</telefone>
+			<celular>(55) 99251-0029</celular>
+			<email>thiago@email.com</email>
+		</contato>
+		<renda>R$ 500,00</renda>
+		<foto>https://robohash.org/marcio</foto>
+		<conta>
+			<banco>Nubank</banco>
+			<ag>876-5</ag>
+			<cc>227865-4</cc>
+		</conta>
+	</contribuente>
+
+	<contribuente>
+		<cpf>083.080.560-59</cpf>
+		<rg>33.966.086-7</rg>
+		<nome>Rahyssa Toledo Belchior</nome>
+		<data_nasc>23/07/1967</data_nasc>
+		<endereco>
+			<logradouro>Rua Margarida</logradouro>
+			<numero>07</numero>
+			<bairro>Jonathan Girão</bairro>
+			<cep>59600-972</cep>
+			<cidade>Juazeiro</cidade>
+			<estado>BA</estado>
+		</endereco>	
+		<contato>
+			<telefone>(20) 15778-6245</telefone>
+			<celular>(57) 97834-9468</celular>
+			<email>toledo@email.com</email>
+		</contato>
+		<renda>R$ 2.500,00</renda>
+		<foto>https://robohash.org/juanito</foto>
+		<conta>
+			<banco>Banco do Brasil</banco>
+			<ag>789-4</ag>
+			<cc>976908-2</cc>
+		</conta>
+	</contribuente>
+</receita>
